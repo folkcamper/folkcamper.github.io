@@ -11,7 +11,7 @@ Government and military use is also restricted.
 There are those who work in information technology who’ve seen their work
 perverted, and those who will. Having gone through that experience personally I
 have been reluctant to release software that I’ve written, because I have no
-interest in seeing my software used by parties who have poor impulse control. I
+interest in seeing my software used by parties who have poor impulse control. 
 I believe that my responsibility extends beyond simply creating utility, but
 also to participating in my society in a way that advances the interests of
 mankind.
